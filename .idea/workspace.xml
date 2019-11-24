@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8625c291-475b-4720-acaf-8619e0f90cd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/technology-module/src/main/java/com/capfsd/mod/technology/TechnologyModuler.java" beforeDir="false" afterPath="$PROJECT_DIR$/technology-module/src/main/java/com/capfsd/mod/technology/TechnologyModuler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/technology-module/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/technology-module/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
