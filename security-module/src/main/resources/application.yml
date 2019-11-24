@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: security-module
+
+server:
+  port: 8040
+
+eureka:
+  instance:
+    hostname: localhost
+  serviceUrl:
+    defaultZone: http://localhost:8761/eureka/
+
+jwt:
+  issuer: FSD capsule - Mentor On Demand
+  secret: Test4test
+  validity: 2000000
