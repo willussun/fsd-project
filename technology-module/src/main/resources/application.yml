@@ -12,7 +12,7 @@ spring:
     password: passw0rd
 
 server:
-  port: 8020
+  port: 8021
 
 eureka:
   instance:

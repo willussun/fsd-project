@@ -3,13 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8625c291-475b-4720-acaf-8619e0f90cd9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/registry-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/registry-module/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/security-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/security-module/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/technology-module/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/training-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/training-module/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-module/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-module/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/technology-module/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/technology-module/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +161,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
