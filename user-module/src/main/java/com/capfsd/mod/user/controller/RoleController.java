@@ -27,7 +27,7 @@ public class RoleController {
 
         PageDto<RoleDto> rolePage1 = roleService.findAll(keyword, pageable);
 
-        return ResponseResult.success("get roles successfully", rolePage1, null);
+        return ResponseResult.success("get roles successfully", rolePage, null);
     }
 
     @PostMapping
