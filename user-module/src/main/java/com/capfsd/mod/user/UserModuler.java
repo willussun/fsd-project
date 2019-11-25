@@ -10,7 +10,6 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 public class UserModuler {
     public static void main(String[] args) {
-	System.out.println("ccc");
         SpringApplication.run(UserModuler.class);
     }
 }
