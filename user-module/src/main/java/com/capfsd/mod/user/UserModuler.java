@@ -10,7 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringBootApplication
 public class UserModuler {
     public static void main(String[] args) {
-	System.out.println("aaa");
+	System.out.println("bbb");
         SpringApplication.run(UserModuler.class);
     }
 }
