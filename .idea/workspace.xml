@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8625c291-475b-4720-acaf-8619e0f90cd9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/technology-module/src/main/java/com/capfsd/mod/technology/TechnologyModuler.java" beforeDir="false" afterPath="$PROJECT_DIR$/technology-module/src/main/java/com/capfsd/mod/technology/TechnologyModuler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/technology-module/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/technology-module/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-module/src/main/java/com/capfsd/mod/user/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-module/src/main/java/com/capfsd/mod/user/controller/RoleController.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +16,7 @@
     <option name="myElementSize" value="127" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/user-module" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
