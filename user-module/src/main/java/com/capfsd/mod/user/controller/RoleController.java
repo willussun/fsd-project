@@ -25,9 +25,9 @@ public class RoleController {
             @RequestParam(value = "q", required = false, defaultValue = "") String keyword,
             @PageableDefault(sort = {"updatedTime"}) Pageable pageable) {
 
-        PageDto<RoleDto> rolePage = roleService.findAll(keyword, pageable);
+        PageDto<RoleDto> rolePage1 = roleService.findAll(keyword, pageable);
 
-        return ResponseResult.success("get roles successfully", rolePage, null);
+        return ResponseResult.success("get roles successfully", rolePage1, null);
     }
 
     @PostMapping
